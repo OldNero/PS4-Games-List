@@ -1,2 +1,3 @@
-# PS4-Games-List
-All PS4 games listed with sizes, dates and firmware versions.
+<p align="center">
+  <img src="https://github.com/OldNero/PS4-Games-List/blob/master/banner.png" title="repo banner">
+</p>
