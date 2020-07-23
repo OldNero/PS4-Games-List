@@ -293,7 +293,7 @@ Ratings,Title,Size (GB),Release Date (NA),Possible FW
 7.8,Travis Strikes Again: No More Heroes - Complete Edition,,"October 17, 2019",7.00
 7.8,Unravel Two,,"June 9, 2018",5.55
 7.8,Wonder Boy: The Dragon's Trap,,"April 18, 2017",5.05
-7.7,Star Wars Jedi: Fallen Order,47.52,"November 15, 2019",7.01
+7.7,Star Wars Jedi: Fallen Order,47.52,"November 15, 2019",5.05*
 7.7,MLB The Show 19,46.23,"March 26, 2019",6.50
 7.7,Mortal Kombat XL,40.86,"March 1, 2016",5.05
 7.7,F1 2018,34.01,"August 24, 2018",5.56
@@ -397,7 +397,7 @@ Ratings,Title,Size (GB),Release Date (NA),Possible FW
 7.5,BlazBlue: Chrono Phantasma Extend,16.22,"June 30, 2015",5.05
 7.5,Toukiden 2,15.68,"March 21, 2017",5.05
 7.5,DOOM VFR,14.41,"December 1, 2017",5.05
-7.5,Team Sonic Racing,13.97,"May 21, 2019",6.51
+7.5,Team Sonic Racing,13.97,"May 21, 2019",5.05*
 7.5,Everybody's Golf,07.94,"August 29, 2017",5.05
 7.5,Maneater,06.30,"May 22, 2020",7.50
 7.5,God's Trigger,04.54,"April 18, 2019",6.51
@@ -694,7 +694,7 @@ Ratings,Title,Size (GB),Release Date (NA),Possible FW
 7.1,LEGO Jurassic World,12.89,"June 9, 2015",5.05
 7.1,Tales of Berseria,12.37,"January 24, 2017",5.05
 7.1,LEGO City Undercover,11.01,"April 4, 2017",5.05
-7.1,Call of Cthulhu,10.78,"October 30, 2018",6.02
+7.1,Call of Cthulhu,10.78,"October 30, 2018",5.05*
 7.1,Dragon Star Varnir,08.42,"June 11, 2019",6.71
 7.1,Observer,08.19,"August 15, 2017",5.05
 7.1,Aven Colony,07.35,"July 25, 2017",5.05
@@ -799,7 +799,7 @@ Ratings,Title,Size (GB),Release Date (NA),Possible FW
 7.1,Toy Soldiers: War Chest,,"August 11, 2015",5.05
 7.1,"Warhammer 40,000: Space Wolf",,"March 26, 2019",6.50
 7.1,Wayward Sky,,"October 10, 2016",5.05
-7.0,Metro Exodus,48.58,"February 15, 2019",6.20
+7.0,Metro Exodus,48.58,"February 15, 2019",5.05*
 7.0,PlayStation VR Demo Disc,38.95,"October 10, 2016",5.05
 7.0,Tom Clancy's The Division,31.96,"March 8, 2016",5.05
 7.0,Dishonored: Death of the Outsider,24.28,"September 15, 2017",5.05
@@ -1227,7 +1227,7 @@ Ratings,Title,Size (GB),Release Date (NA),Possible FW
 6.6,LEGO The Hobbit,08.68,"April 8, 2014",5.05
 6.6,The Surge,05.41,"May 16, 2017",5.05
 6.6,Demon Gaze II,04.24,"November 14, 2017",5.05
-6.6,Age of Wonders: Planetfall,04.00,"August 6, 2019",6.72
+6.6,Age of Wonders: Planetfall,04.00,"August 6, 2019",5.05*
 6.6,My Hero One's Justice,03.75,"October 26, 2018",6.02
 6.6,Dusk Diver,03.64,"October 29, 2019",7.00
 6.6,Sid Meier's Civilization VI,03.63,"November 22, 2019",7.01
@@ -1788,7 +1788,7 @@ Ratings,Title,Size (GB),Release Date (NA),Possible FW
 6.1,WE ARE DOOMED,,"April 14, 2015",5.05
 6.1,Youtubers Life: OMG Edition,,"November 20, 2018",6.02
 6.0,Ride 2,32.28,"February 14, 2017",5.05
-6.0,WRC 8 FIA World Rally Championship,22.86,"September 10, 2019",6.72
+6.0,WRC 8 FIA World Rally Championship,22.86,"September 10, 2019",5.05*
 6.0,Bladestorm: Nightmare,14.90,"March 17, 2015",5.05
 6.0,Blackguards 2,14.44,"September 19, 2017",5.05
 6.0,Syberia 3,14.44,"April 25, 2017",5.05
@@ -2129,7 +2129,7 @@ Ratings,Title,Size (GB),Release Date (NA),Possible FW
 5.5,The Room VR: A Dark Matter,,"March 26, 2020",7.02
 5.5,Tinertia,,"June 20, 2017",5.05
 5.5,War Thunder,,"June 3, 2014",5.05
-5.5,Wargroove,,"July 23, 2019",6.72
+5.5,Wargroove,,"July 23, 2019",5.05*
 5.5,Xeodrifter,,"September 1, 2015",5.05
 5.5,ZEN Pinball 2: Venom,,"December 9, 2014",5.05
 5.4,WWE 2K18,45.72,"October 13, 2017",5.05
@@ -2244,7 +2244,7 @@ Ratings,Title,Size (GB),Release Date (NA),Possible FW
 5.2,Dakar 18,41.87,"September 25, 2018",6.00
 5.2,Assassin's Creed Unity,40.97,"November 11, 2014",5.05
 5.2,Conan Exiles,38.42,"May 8, 2018",5.53
-5.2,Dead or Alive 6,28.20,"March 1, 2019",6.20
+5.2,Dead or Alive 6,28.20,"March 1, 2019",5.05*
 5.2,We Happy Few,09.93,"August 10, 2018",5.56
 5.2,AeternoBlade II,07.05,"October 11, 2019",7.00
 5.2,Beyond Blue,06.71,"June 11, 2020",7.51
@@ -2392,7 +2392,7 @@ Ratings,Title,Size (GB),Release Date (NA),Possible FW
 4.9,Uncanny Valley,,"February 7, 2017",5.05
 4.9,Unearthing Mars 2: The Ancient War,,"September 18, 2018",6.00
 4.9,ZEN Pinball 2: Portal Pinball,,"May 26, 2015",5.05
-4.8,LEGO The Incredibles,13.95,"June 15, 2018",5.56
+4.8,LEGO The Incredibles,13.95,"June 15, 2018",5.05*
 4.8,Close to the Sun,11.69,"October 29, 2019",7.00
 4.8,Separation,00.40,"March 4, 2020",7.02
 4.8,Tempest 4000,00.20,"July 17, 2018",5.56
@@ -2582,7 +2582,7 @@ Ratings,Title,Size (GB),Release Date (NA),Possible FW
 4.2,Warhammer: Chaosbane,,"June 4, 2019",6.70
 4.2,Wonder Boy Returns,,"March 30, 2017",5.05
 4.1,Homefront: The Revolution,30.24,"May 17, 2016",5.05
-4.1,Far Cry New Dawn,22.69,"February 15, 2019",6.20
+4.1,Far Cry New Dawn,22.69,"February 15, 2019",5.05*
 4.1,Unearthing Mars,09.41,"March 7, 2017",5.05
 4.1,Fade to Silence,09.22,"April 30, 2019",6.51
 4.1,Gungrave VR,04.51,"December 11, 2018",6.02
