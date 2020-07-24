@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather+Sans');
+
+:root {
+    --button: 5px 10px;
+    --blue: #2841af;
+    --black: #111;
+    --white: #f0f0f0;
+    --font: 'Merriweather Sans', sans-serif;
+}
+
+html {
+    background-color: var(--black);
+    font-family: var(--font);
+    color: var(--white);
+    overflow: hidden;
+    font-size: 1vw;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+.top-nav {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    padding-left: 10vw;
+    padding-right: 10vw;
+    left: 0;
+    top: 0;
+    height: 50px;
+    background-color: var(--blue);
+    color: var(--white);
+    font-size: 1rem;
+}
+
+.container {
+    padding-left: 10vw;
+    padding-right: 10vw;
+    margin-top: 30px;
+}
+
+#gameList {
+    color: var(--white);
+    width: 80vw;
+}
+
+thead * {
+    text-align: left;
+}
+
+tbody * {
+    text-align: left;
+}
+
+
+div#table_filter {
+    float: right;
+    color: var(--white);
+    position: relative;
+    top: -90px;
+    border-radius: 5px;
+}
+
+.dt-buttons {
+    color: var(--white);
+}
+
+.buttons-print {
+    display: none;
+}
+
+.buttons-csv,
+.buttons-json,
+.buttons-copy {
+    padding: var(--button);
+    border: 2px solid var(--white);
+    color: var(--white);
+    border-radius: 5px;
+    text-decoration: none;
+    margin-right: 8px;
+}
+
+div#table_filter input[type="search"] {
+    height: 30px;
+    border-bottom: 1px solid var(--white);
+    color: var(--white);
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    font-size: 1.2rem;
+    background-color: transparent;
+}
+
+input[type="search"]::-webkit-search-cancel-button {
+    transform: scale(2);
+    cursor: pointer;
+}
+
+
+table thead tr th {
+    background-color: rgba(40, 65, 175, 0.2);
+    overflow: hidden;
+    padding: 10px 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+table thead tr th:hover {
+    background-color: rgba(40, 65, 175, 0.3);
+}
+
+table tbody tr td:nth-child(2) {
+    width: 50%;
+}
+
+table tbody tr td {
+    padding: 3px;
+}
+
+
+table tbody tr:hover {
+    background-color: rgba(40, 65, 175, 0.3);
+}
+
+
+div#table_paginate {
+    position: relative;
+    top: -18px;
+    float: right;
+}
+
+.paginate_button {
+    margin-right: 10px;
+}
