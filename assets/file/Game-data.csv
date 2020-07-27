@@ -731,7 +731,7 @@ Ratings,Title,Size (GB),Release Date (NA),Possible FW
 7.10,Jurassic World Evolution,6.48,"June 12, 2018",5.56
 7.10,King's Quest Chapter 3: Once Upon a Climb,,"April 26, 2016",5.05
 7.10,LEGO City Undercover,11.01,"April 4, 2017",5.05
-7.10,LEGO DC Super-Villains,16.06,"October 16, 2018",6.00
+7.10,LEGO DC Super-Villains,16.06,"October 16, 2018",5.05*
 7.10,LEGO Dimensions,,"September 27, 2015",5.05
 7.10,LEGO Jurassic World,12.89,"June 9, 2015",5.05
 7.10,LEGO Marvel's Avengers,13.40,"January 26, 2016",5.05
@@ -1379,7 +1379,7 @@ Ratings,Title,Size (GB),Release Date (NA),Possible FW
 6.50,Rocksmith 2014 Edition: Remastered,,"October 4, 2016",5.05
 6.50,RWBY: Grimm Eclipse,,"January 17, 2017",5.05
 6.50,Sea of Solitude,1.25,"July 5, 2019",6.71
-6.50,Shadow of the Tomb Raider: Definitive Edition,,"November 5, 2019",7.00
+6.50,Shadow of the Tomb Raider: Definitive Edition,,"November 5, 2019",5.05*
 6.50,Sheltered,,"March 15, 2016",5.05
 6.50,Slay the Spire,0.45,"May 21, 2019",6.51
 6.50,Slime-san: Superslime Edition,1.50,"June 26, 2018",5.56
@@ -2759,7 +2759,7 @@ Ratings,Title,Size (GB),Release Date (NA),Possible FW
 3.00,R.B.I. Baseball 16,4.33,"March 29, 2016",5.05
 3.00,Star Wars Battlefront II: Resurrection,,"December 13, 2017",5.05
 3.00,Switchblade,,"August 28, 2018",5.56
-3.00,Tennis World Tour,3.80,"May 22, 2018",5.55
+3.00,Tennis World Tour,3.80,"May 22, 2018",5.05*
 3.00,The Sims 4: Get Famous,,"February 12, 2019",6.20
 3.00,Underworld Ascendant,4.54,"June 20, 2019",6.71
 3.00,"Warhammer 40,000: Inquisitor - Martyr: Prophecy",,"February 14, 2020",7.02
@@ -2879,7 +2879,7 @@ Ratings,Title,Size (GB),Release Date (NA),Possible FW
 1.50,Syndrome,,"October 6, 2017",5.05
 1.50,The Idolm@ster Cinderella Girls: Viewing Revolution,,"July 18, 2017",5.05
 1.50,Tony Hawk's Pro Skater 5,,"September 29, 2015",5.05
-1.50,WWE 2K20,47.08,"October 22, 2019",7.00
+1.50,WWE 2K20,47.08,"October 22, 2019",5.05*
 1.40,Metal Gear Survive,16.42,"February 20, 2018",5.05
 1.40,Star Wars Battlefront II,48.42,"November 14, 2017",5.05
 1.40,Star Wars Battlefront: Ultimate Edition,,"November 18, 2016",5.05
@@ -2888,7 +2888,7 @@ Ratings,Title,Size (GB),Release Date (NA),Possible FW
 1.20,ZEN Pinball 2: Ant-Man Pinball,,"July 15, 2015",5.05
 1.10,FIFA 20,,"September 24, 2019",6.72
 1.10,Jumanji: The Video Game,1.96,"November 8, 2019",7.00
-1.10,NBA 2K20,48.63,"September 6, 2019",6.72
+1.10,NBA 2K20,48.63,"September 6, 2019",5.05*
 0.90,Tom Clancy's The Division 2: Warlords of New York,,"March 3, 2020",7.02
 0.80,Megaquarium,0.71,"October 18, 2019",7.00
 0.60,Space Overlords,,"December 6, 2016",5.05
@@ -3494,7 +3494,7 @@ Ratings,Title,Size (GB),Release Date (NA),Possible FW
 0.00,Dark Rose Valkyrie: New Mission Addition Pack 2,,"June 6, 2017",5.05
 0.00,Dark Rose Valkyrie: New Mission Addition Pack 3,,"June 6, 2017",5.05
 0.00,Dark Rose Valkyrie: New Mission Addition Pack 4,,"June 6, 2017",5.05
-0.00,Darkest Dungeon: Ancestral Edition,,"May 8, 2018",5.53
+0.00,Darkest Dungeon: Ancestral Edition,,"May 8, 2018",5.05*
 0.00,Darkest Dungeon: Crimson Edition,,"August 22, 2017",5.05
 0.00,Darkest Dungeon: The Color of Madness,,"November 15, 2018",6.02
 0.00,Darkest Dungeon: The Crimson Court,,"August 25, 2017",5.05

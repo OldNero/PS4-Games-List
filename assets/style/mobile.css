@@ -1,1 +1,51 @@
-@media only screen and (max-width:700px){*{font-size:1em}body,html{overflow-x:scroll;overflow-y:hidden}.dt-button{padding:4px;font-size:11px}#table_wrapper{display:flex;flex-direction:column;width:auto;font-size:10px}#table_wrapper .dataTables_filter{position:relative;top:15px;left:0;width:50px}#table_wrapper .dataTables_filter input{margin-top:5px;margin-bottom:5px;height:20px}input[type="search"]{width:130px}.head{font-size:14px}.head span,a{top:17px;left:20px;font-size:7px}}
+@media only screen and (max-width:700px) {
+    * {
+        font-size: 1em
+    }
+
+    body,
+    html {
+        overflow-x: scroll;
+        overflow-y: hidden
+    }
+
+    .dt-button {
+        padding: 4px;
+        font-size: 11px
+    }
+
+    #table_wrapper {
+        display: flex;
+        flex-direction: column;
+        width: auto;
+        font-size: 10px
+    }
+
+    #table_wrapper .dataTables_filter {
+        position: relative;
+        top: 15px;
+        left: 0;
+        width: 50px
+    }
+
+    #table_wrapper .dataTables_filter input {
+        margin-top: 5px;
+        margin-bottom: 5px;
+        height: 20px
+    }
+
+    input[type="search"] {
+        width: 130px
+    }
+
+    .head {
+        font-size: 14px
+    }
+
+    .head span,
+    a {
+        top: 17px;
+        left: 20px;
+        font-size: 7px
+    }
+}
