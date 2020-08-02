@@ -27,7 +27,7 @@ Ratings,Title,Size (GB),Release Date (NA),Possible FW
 8.80,Hollow Knight: Voidheart Edition,,"September 25, 2018",6.00
 8.80,Kingdom Hearts: All-in-One Package,,"January 29, 2019",6.20
 8.70,Detroit: Become Human,42.41,"May 25, 2018",5.05*
-8.70,Dragon Quest XI: Echoes of an Elusive Age,,"September 4, 2018",5.56
+8.70,Dragon Quest XI: Echoes of an Elusive Age,,"September 4, 2018",5.05*
 8.70,Final Fantasy XIV: Stormblood,,"June 20, 2017",5.05
 8.70,Final Fantasy XV - Multiplayer Expansion: Comrades,,"November 15, 2017",5.05
 8.70,Final Fantasy XV: Episode Gladiolus,,"March 29, 2017",5.05
@@ -61,7 +61,7 @@ Ratings,Title,Size (GB),Release Date (NA),Possible FW
 8.50,Titanfall 2,,"October 28, 2016",5.05
 8.50,Uncharted 4: A Thief's End,,"May 10, 2016",5.05
 8.50,Uncharted: The Nathan Drake Collection,,"October 9, 2015",5.05
-8.40,Bloodstained: Ritual of the Night,8.15,"June 18, 2019",6.71
+8.40,Bloodstained: Ritual of the Night,8.15,"June 18, 2019",5.05*
 8.40,Devil May Cry 4: Special Edition,,"June 23, 2015",5.05
 8.40,Devil May Cry 5,,"March 8, 2019",5.05*
 8.40,DOOM,47.03,"May 13, 2016",5.05
@@ -81,7 +81,7 @@ Ratings,Title,Size (GB),Release Date (NA),Possible FW
 8.40,Yakuza 0,23.83,"January 24, 2017",5.05
 8.40,Ys VIII: Lacrimosa of DANA,15.69,"September 12, 2017",5.05
 8.30,Big Bash Boom,6.03,"November 29, 2018",6.02
-8.30,Concrete Genie,12.14,"October 8, 2019",7.00
+8.30,Concrete Genie,12.14,"October 8, 2019",5.05*
 8.30,Dying Light: The Following - Enhanced Edition,20.96,"February 9, 2016",5.05
 8.30,Final Fantasy VII,0.01,"December 5, 2015",5.05
 8.30,Final Fantasy X / X-2 HD Remaster,,"May 12, 2015",5.05
@@ -118,7 +118,7 @@ Ratings,Title,Size (GB),Release Date (NA),Possible FW
 8.20,Kingdom Hearts HD 2.8 Final Chapter Prologue,29.63,"January 24, 2017",5.05
 8.20,Life is Strange: Episode 1 - Chrysalis,,"January 30, 2015",5.05
 8.20,Life is Strange: Episode 3 - Chaos Theory,,"May 19, 2015",5.05
-8.20,MediEvil,21.86,"October 25, 2019",7.00
+8.20,MediEvil,21.86,"October 25, 2019",5.05*
 8.20,Metal Gear Solid V: The Phantom Pain,26.97,"September 1, 2015",5.05
 8.20,Naruto Shippuden: Ultimate Ninja Storm 4,37.23,"February 9, 2016",5.05
 8.20,Ni no Kuni: Wrath of the White Witch Remastered,19.24,"September 20, 2019",5.05*
@@ -175,7 +175,7 @@ Ratings,Title,Size (GB),Release Date (NA),Possible FW
 8.00,Dragon Ball Z: Kakarot,34.31,"January 17, 2020",7.02
 8.00,Dying Light: The Following,,"February 9, 2016",5.05
 8.00,Five Nights at Freddy's VR: Help Wanted,,"May 28, 2019",6.51
-8.00,GreedFall,10.90,"September 10, 2019",6.72
+8.00,GreedFall,10.90,"September 10, 2019",5.05*
 8.00,Guilty Gear Xrd -REVELATOR-,6.68,"June 7, 2016",5.05
 8.00,Guilty Gear Xrd: Rev 2,,"May 26, 2017",5.05
 8.00,Helldivers,,"March 3, 2015",5.05
@@ -257,7 +257,7 @@ Ratings,Title,Size (GB),Release Date (NA),Possible FW
 7.80,Darkest Dungeon,,"September 27, 2016",5.05
 7.80,Divinity: Original Sin II - Definitive Edition,,"August 31, 2018",5.05*
 7.80,DJMax Respect,26.30,"March 6, 2018",5.05
-7.80,eFootball PES 2020,,"September 10, 2019",6.72
+7.80,eFootball PES 2020,,"September 10, 2019",5.05*
 7.80,Everybody's Golf VR,,"May 21, 2019",6.51
 7.80,Fist of the North Star: Lost Paradise,36.30,"October 2, 2018",6.00
 7.80,Furi,,"July 5, 2016",5.05
@@ -462,7 +462,7 @@ Ratings,Title,Size (GB),Release Date (NA),Possible FW
 7.40,Dragon Ball: Xenoverse 2,,"October 25, 2016",5.05
 7.40,Driveclub Bikes,,"October 27, 2015",5.05
 7.40,Earth Defense Force 4.1: The Shadow of New Despair,6.07,"December 8, 2015",5.05
-7.40,Far Cry 3: Classic Edition,,"June 26, 2018",5.56
+7.40,Far Cry 3: Classic Edition,,"June 26, 2018",5.05*
 7.40,Fight'N Rage,0.15,"December 3, 2019",7.01
 7.40,Full Throttle Remastered,,"April 18, 2017",5.05
 7.40,Get Even,29.41,"June 23, 2017",5.05
@@ -645,7 +645,7 @@ Ratings,Title,Size (GB),Release Date (NA),Possible FW
 7.20,Sherlock Holmes: Crimes & Punishments,,"September 30, 2014",5.05
 7.20,Sine Mora EX,0.82,"August 8, 2017",5.05
 7.20,Skullgirls: 2nd Encore,,"July 7, 2015",5.05
-7.20,Slime Rancher,0.61,"August 21, 2018",5.56
+7.20,Slime Rancher,0.61,"August 21, 2018",5.05*
 7.20,Snow Moto Racing Freedom,,"April 11, 2017",5.05
 7.20,SpeedRunners,,"July 5, 2017",5.05
 7.20,Spintires: Mudrunner,,"October 31, 2017",5.05
@@ -702,7 +702,7 @@ Ratings,Title,Size (GB),Release Date (NA),Possible FW
 7.10,Castlevania Requiem: Symphony of the Night & Rondo of Blood,,"October 26, 2018",6.02
 7.10,Celeste,0.75,"January 25, 2018",5.05
 7.10,Danganronpa Another Episode: Ultra Despair Girls,18.54,"June 27, 2017",5.05
-7.10,Darksiders III,20.24,"November 27, 2018",6.02
+7.10,Darksiders III,20.24,"November 27, 2018",5.05*
 7.10,Daymare: 1998,23.63,"April 28, 2020",7.50
 7.10,Dead Nation: Apocalypse Edition,,"March 4, 2014",5.05
 7.10,Discovery Tour by Assassin's Creed: Ancient Egypt,,"February 20, 2018",5.05
@@ -1406,7 +1406,7 @@ Ratings,Title,Size (GB),Release Date (NA),Possible FW
 6.50,This Is the Police,1.25,"March 22, 2017",5.05
 6.50,Titanfall 2 - Colony Reborn,,"March 30, 2017",5.05
 6.50,Touhou Genso Wanderer,7.04,"March 21, 2017",5.05
-6.50,Trials Rising,22.84,"February 26, 2019",6.20
+6.50,Trials Rising,22.84,"February 26, 2019",5.05*
 6.50,Trine: Enchanted Edition,,"December 23, 2014",5.05
 6.50,TT Isle of Man: Ride On The Edge 2,,"March 19, 2020",7.02
 6.50,Unmechanical: Extended Edition,,"February 10, 2015",5.05
@@ -1473,7 +1473,7 @@ Ratings,Title,Size (GB),Release Date (NA),Possible FW
 6.40,Not a Hero,,"February 2, 2016",5.05
 6.40,Overwatch,,"May 23, 2016",5.05
 6.40,Pankapu,,"September 19, 2017",5.05
-6.40,Pro Evolution Soccer 2019,,"August 28, 2018",5.56
+6.40,Pro Evolution Soccer 2019,,"August 28, 2018",5.05*
 6.40,Rainbow Moon,1.76,"February 16, 2016",5.05
 6.40,Resident Evil 3,,"April 3, 2020",7.02
 6.40,River City Girls,5.27,"September 5, 2019",6.72
@@ -1913,7 +1913,7 @@ Ratings,Title,Size (GB),Release Date (NA),Possible FW
 5.90,Nidhogg 2,0.48,"September 15, 2017",5.05
 5.90,Organ Trail: Complete Edition,,"October 20, 2015",5.05
 5.90,Rolling Bob,,"April 13, 2017",5.05
-5.90,Shadows: Awakening,6.61,"September 4, 2018",5.56
+5.90,Shadows: Awakening,6.61,"September 4, 2018",5.05*
 5.90,Shadwen,,"May 17, 2016",5.05
 5.90,Skyforge,,"April 11, 2017",5.05
 5.90,Sniper Elite III: Target Hitler - Hunt the Grey Wolf,,"July 15, 2014",5.05
@@ -1999,7 +1999,7 @@ Ratings,Title,Size (GB),Release Date (NA),Possible FW
 5.70,Assassin's Creed Odyssey - The Fate of Atlantis - Episode 2: Torment of Hades,,"June 4, 2019",6.71
 5.70,Backgammon Blitz,,"April 15, 2014",5.05
 5.70,Bleed,,"August 22, 2017",5.05
-5.70,Borderlands 3,38.01,"September 13, 2019",6.72
+5.70,Borderlands 3,38.01,"September 13, 2019",5.05*
 5.70,Brawlout,3.06,"August 21, 2018",5.56
 5.70,Call of Duty: Advanced Warfare,,"November 3, 2014",5.05
 5.70,Call of Duty: Advanced Warfare - Ascendance,,"April 30, 2015",5.05
@@ -2453,7 +2453,7 @@ Ratings,Title,Size (GB),Release Date (NA),Possible FW
 4.70,The Walker,,"July 3, 2018",5.56
 4.70,The Walking Dead: The Telltale Series - A New Frontier Episode 3: Above the Law,,"March 28, 2017",5.05
 4.70,Troll and I,9.98,"March 21, 2017",5.05
-4.60,Agony,10.53,"May 29, 2018",5.55
+4.60,Agony,10.53,"May 29, 2018",5.05*
 4.60,Air Conflicts: Pacific Carriers,,"November 3, 2015",5.05
 4.60,Beyond Eyes,,"September 8, 2015",5.05
 4.60,Bush Hockey League,,"March 29, 2017",5.05
@@ -2684,7 +2684,7 @@ Ratings,Title,Size (GB),Release Date (NA),Possible FW
 3.60,Micro Machines World Series,4.45,"June 30, 2017",5.05
 3.60,Mighty No. 9,2.17,"June 21, 2016",5.05
 3.60,MX vs. ATV All Out: Anniversary Edition,,"March 12, 2019",6.50
-3.60,NHL 20,30.62,"September 10, 2019",6.72
+3.60,NHL 20,30.62,"September 10, 2019",5.05*
 3.60,One Punch Man: A Hero Nobody Knows,6.49,"February 28, 2020",7.02
 3.60,PONCHO,0.24,"November 3, 2015",5.05
 3.60,Real Farm,1.72,"October 20, 2017",5.05
@@ -2895,7 +2895,7 @@ Ratings,Title,Size (GB),Release Date (NA),Possible FW
 0.50,3D Billiards: Billards & Snooker,,"December 19, 2017",5.05
 0.00,140,,"September 6, 2016",5.05
 0.00,11-11: Memories Retold - WarChild Charity,,"November 9, 2018",6.02
-0.00,13 Sentinels: Aegis Rim,,"September 8, 2020",7.51
+0.00,13 Sentinels: Aegis Rim,,"September 8, 2020",5.05*
 0.00,2MD VR Football,,"May 8, 2018",5.53
 0.00,39 Days to Mars,0.37,"October 29, 2019",7.00
 0.00,3D Billiards,1.35,"December 19, 2017",5.05
@@ -4812,7 +4812,7 @@ Ratings,Title,Size (GB),Release Date (NA),Possible FW
 0.00,Shenmue III: Big Merry Cruise,,"March 17, 2020",7.02
 0.00,Shenmue III: Story Quest Pack,,"February 18, 2020",7.02
 0.00,Shift Happens,,"March 7, 2017",5.05
-0.00,Shikhondo: Soul Eater,,"August 28, 2018",5.56
+0.00,Shikhondo: Soul Eater,,"August 28, 2018",5.05*
 0.00,Shiny,,"February 27, 2018",5.05
 0.00,Shoppe Keep,0.42,"September 19, 2017",5.05
 0.00,Shred It!,,"March 30, 2017",5.05
