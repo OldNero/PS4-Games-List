@@ -3,17 +3,21 @@
 :root {
     --button: 5px 10px;
     --blue: #2841af;
+    --lblue: rgba(40, 65, 175, 0.4);
     --black: #111;
     --white: #f0f0f0;
     --font: 'Merriweather Sans', sans-serif;
 }
 
+* {
+    border-radius: 5px;
+}
+
 html {
     background-color: var(--black);
-    font-family: var(--font);
     color: var(--white);
-    overflow: hidden;
     font-size: 1vw;
+    font-family: var(--font);
 }
 
 body {
@@ -24,14 +28,14 @@ body {
 
 .top-nav {
     position: relative;
+    top: 0;
+    left: 0;
     display: flex;
     align-items: center;
-    justify-content: space-between;
     flex-direction: row;
-    padding-left: 10vw;
+    justify-content: space-between;
     padding-right: 10vw;
-    left: 0;
-    top: 0;
+    padding-left: 10vw;
     height: 50px;
     background-color: var(--blue);
     color: var(--white);
@@ -39,14 +43,19 @@ body {
 }
 
 .container {
-    padding-left: 10vw;
-    padding-right: 10vw;
     margin-top: 30px;
+    padding-right: 10vw;
+    padding-left: 10vw;
 }
 
 #gameList {
-    color: var(--white);
     width: 80vw;
+    color: var(--white);
+}
+
+
+table#table {
+    margin: 30px;
 }
 
 thead * {
@@ -59,63 +68,23 @@ tbody * {
 
 
 div#table_filter {
-    float: right;
-    color: var(--white);
     position: relative;
     top: -90px;
+    float: right;
     border-radius: 5px;
-}
-
-.dt-buttons {
     color: var(--white);
 }
-
-.buttons-print {
-    display: none;
-}
-
-.buttons-csv,
-.buttons-json,
-.buttons-copy {
-    padding: var(--button);
-    border: 2px solid var(--white);
-    color: var(--white);
-    border-radius: 5px;
-    text-decoration: none;
-    margin-right: 8px;
-}
-
-div#table_filter input[type="search"] {
-    height: 30px;
-    border-bottom: 1px solid var(--white);
-    color: var(--white);
-    border-top: none;
-    border-left: none;
-    border-right: none;
-    font-size: 1.2rem;
-    background-color: transparent;
-}
-
-input[type="search"]::-webkit-search-cancel-button {
-    transform: scale(2);
-    cursor: pointer;
-}
-
 
 table thead tr th {
-    background-color: rgba(40, 65, 175, 0.2);
     overflow: hidden;
     padding: 10px 5px;
     border-radius: 5px;
+    background-color: var(--lblue);
     cursor: pointer;
 }
 
 table thead tr th:hover {
-    background-color: rgba(40, 65, 175, 0.3);
-}
-
-table tbody tr td:nth-child(2) {
-    width: 50%;
+    background-color: var(--blue);
 }
 
 table tbody tr td {
@@ -124,7 +93,7 @@ table tbody tr td {
 
 
 table tbody tr:hover {
-    background-color: rgba(40, 65, 175, 0.3);
+    background-color: var(--lblue);
 }
 
 
@@ -136,4 +105,125 @@ div#table_paginate {
 
 .paginate_button {
     margin-right: 10px;
+}
+
+input[type="search"] {
+    position: relative;
+    padding: var(--button);
+    border: none;
+    font-size: 18px;
+}
+
+select {
+    position: relative;
+    padding: var(--button);
+    border: none;
+}
+
+label {
+    position: relative;
+    top: 5px;
+    left: 1%;
+    font-size: 15px;
+}
+
+div#gameList_filter label:nth-child(1) {
+    position: relative;
+    left: -1px;
+}
+
+div#gameList_length {
+    float: left;
+    margin-bottom: 25px;
+}
+
+div#gameList_filter {
+    float: right;
+}
+
+.btn {
+    border: none;
+    padding: var(--button);
+    background-color: var(--black);
+    color: var(--white);
+    cursor: pointer;
+    font-family: var(--font);
+}
+
+div#gameList_paginate {
+    float: right;
+    position: relative;
+    top: -5px;
+    left: 9px;
+}
+
+div#gameList_info {
+    position: relative;
+    top: 18px;
+}
+
+div#gameList_info {
+    width: auto;
+}
+
+a.paginate_button,
+div#gameList_info {
+    padding: var(--button);
+    background-color: var(--lblue);
+}
+
+a.paginate_button:hover {
+    cursor: pointer;
+    background-color: var(--blue);
+}
+
+.ellipsis {
+    margin-right: 8px;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 20px;
+    cursor: pointer;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: var(--lblue);
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: var(--blue);
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: var(--lblue);
+    cursor: pointer;
+}
+
+footer {
+    text-align: center;
+}
+
+footer p {
+    text-align: center;
+}
+
+.fas, .fab {
+    color: var(--blue);
+}
+
+a:link {
+    color: var(--blue);
+    text-decoration: none;
+}
+
+a:visited {
+    color: var(--blue);
 }
