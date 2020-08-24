@@ -9,7 +9,7 @@
     --font: 'Merriweather Sans', sans-serif;
 }
 
-* {
+.container * {
     border-radius: 5px;
 }
 
