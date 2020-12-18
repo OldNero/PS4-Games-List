@@ -2,10 +2,10 @@
 
 :root {
     --button: 5px 10px;
-    --blue: #2841af;
-    --lblue: rgba(40, 65, 175, 0.4);
+    --blue: #162f9e;
+    --lblue: rgba(40, 65, 175, 0.2);
     --black: #111;
-    --white: #f0f0f0;
+    --white: #c5c5c5;
     --font: 'Merriweather Sans', sans-serif;
 }
 
@@ -16,7 +16,7 @@
 html {
     background-color: var(--black);
     color: var(--white);
-    font-size: 1vw;
+    font-size: 15px;
     font-family: var(--font);
 }
 
@@ -25,8 +25,8 @@ body {
     padding: 0;
 }
 
-
 .top-nav {
+    background: linear-gradient(90deg, rgba(37,76,219,1) 36%, rgba(98,188,242,1) 100%);
     position: relative;
     top: 0;
     left: 0;
@@ -36,82 +36,38 @@ body {
     justify-content: space-between;
     padding-right: 10vw;
     padding-left: 10vw;
-    height: 50px;
-    background-color: var(--blue);
+    height: 120px;
     color: var(--white);
     font-size: 1rem;
 }
 
-.container {
-    margin-top: 30px;
-    padding-right: 10vw;
-    padding-left: 10vw;
+.logo h1 {
+    font-size: 3rem;
 }
 
-#gameList {
-    width: 80vw;
-    color: var(--white);
-}
-
-
-table#table {
-    margin: 30px;
-}
-
-thead * {
-    text-align: left;
-}
-
-tbody * {
-    text-align: left;
-}
-
-
-div#table_filter {
-    position: relative;
-    top: -90px;
-    float: right;
+.btn {
+    border: none;
     border-radius: 5px;
+    padding: 5px 20px;
+    background-color: var(--black);
     color: var(--white);
-}
-
-table thead tr th {
-    overflow: hidden;
-    padding: 10px 5px;
-    border-radius: 5px;
-    background-color: var(--lblue);
     cursor: pointer;
+    font-family: var(--font);
 }
 
-table thead tr th:hover {
-    background-color: var(--blue);
-}
-
-table tbody tr td {
-    padding: 3px;
-}
-
-
-table tbody tr:hover {
-    background-color: var(--lblue);
-}
-
-
-div#table_paginate {
-    position: relative;
-    top: -18px;
-    float: right;
-}
-
-.paginate_button {
-    margin-right: 10px;
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    width: 60vw;
+    margin: 30px auto;
 }
 
 input[type="search"] {
     position: relative;
     padding: var(--button);
     border: none;
-    font-size: 18px;
 }
 
 select {
@@ -120,65 +76,79 @@ select {
     border: none;
 }
 
-label {
+#gameList_length {
     position: relative;
-    top: 5px;
-    left: 1%;
-    font-size: 15px;
+    float: right; 
+    z-index: 99;
 }
 
-div#gameList_filter label:nth-child(1) {
-    position: relative;
-    left: -1px;
+td:nth-child(1){
+    max-width: 400px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
 }
 
-div#gameList_length {
-    float: left;
-    margin-bottom: 25px;
-}
 
-div#gameList_filter {
-    float: right;
-}
-
-.btn {
-    border: none;
+th {
+    text-align: left;
+    background-color: var(--blue);
     padding: var(--button);
-    background-color: var(--black);
-    color: var(--white);
-    cursor: pointer;
-    font-family: var(--font);
+
 }
 
-div#gameList_paginate {
-    float: right;
-    position: relative;
-    top: -5px;
-    left: 9px;
-}
-
-div#gameList_info {
-    position: relative;
-    top: 18px;
-}
-
-div#gameList_info {
-    width: auto;
-}
-
-a.paginate_button,
-div#gameList_info {
-    padding: var(--button);
+th:hover {
     background-color: var(--lblue);
 }
 
-a.paginate_button:hover {
-    cursor: pointer;
-    background-color: var(--blue);
+tr {
+    
+    text-indent: 5px;
 }
 
-.ellipsis {
-    margin-right: 8px;
+tr:hover {
+    background-color: var(--lblue);
+    transition: 200ms ease-in-out;
+    cursor: pointer;
+}
+
+td {
+    font-size: 1em;
+    padding: var(--button);
+    
+}
+
+.dataTables_scroll {
+
+    padding: 10px 0;
+}
+
+#gameList_info {
+    background-color: var(--lblue);
+    padding: 5px;
+}
+
+#gameList_paginate {
+    padding: 5px;
+}
+
+#gameList_paginate {
+    float: right;
+    position: relative;
+    top: -29px;
+    left: 7px;
+}
+
+#gameList_paginate a {
+    padding: var(--button);
+    margin-right: 3px;
+    background-color: var(--lblue);
+}
+
+
+#gameList_paginate a:hover {
+    cursor:pointer;
+    background-color: rgba(0, 0, 0, 0.1);
 }
 
 /* width */

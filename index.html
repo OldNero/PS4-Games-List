@@ -10,50 +10,54 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- <link rel="stylesheet" href="./assets/style/mobile.css"> -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
-    <link rel="stylesheet" href="./assets/style/wave.css">
-    <link rel="stylesheet" href="./assets/style/pace.css">
-    <link rel="stylesheet" href="./assets/style/main.css">
+    <link rel="stylesheet" href="./assets/style/loader.min.css">
+    <link rel="stylesheet" href="./assets/style/main-min.css">
     <title>PS4 Games List</title>
 </head>
 
 <body>
     <script>
-/*         $(function () {
+        /*         $(function () {
             $("#gameList").load("Game-data.html");
         }); */
     </script>
 
-    <div class='wave -one'></div>
-    <div class='wave -two'></div>
-    <div class='wave -three'></div>
+    <div class="loader-body" id="loader">
+        <div class="loader"></div>
+    </div>
 
     <div class="top-nav">
         <div class="logo">
             <h1>PS4 Games List</h1>
         </div>
         <div class="buttons">
-            <button class="btn" id="btn">Show Back-Ported to 5.05</button>
+            <button class="btn" id="btn">Show Games on FW 7.02</button>
         </div>
 
     </div>
     <div class="container">
 
-    <table id="gameList" class="table table-striped"></table>
+        <table id="gameList" class="table table-striped"></table>
 
-    <br><br><footer>
-        <p> <i title="Code" class="fas fa-code"></i> and <i title="Design" class="fas fa-palette"></i> by <i class="fab fa-github-alt"></i> <a href="https://github.com/OldNero">OldNero</a>. Made with <i title="Love" class="fas fa-heart"></i> for the <i title="“PlayStation” and “PlayStation Logo” are registered trademarks of Sony Interactive Entertainment Inc." class="fab fa-playstation"></i>4 Scene.</p>
-        </svg>
+        <br><br>
+        <footer>
+            <p> <i title="Code" class="fas fa-code"></i> and <i title="Design" class="fas fa-palette"></i> by <i
+                    class="fab fa-github-alt"></i> <a href="https://github.com/OldNero">OldNero</a>. Made with <i
+                    title="Love" class="fas fa-heart"></i> for the <i
+                    title="“PlayStation” and “PlayStation Logo” are registered trademarks of Sony Interactive Entertainment Inc."
+                    class="fab fa-playstation"></i>4 Scene.</p>
+            </svg>
 
 
 
-    </footer>
+        </footer>
 
-    <!-- Scripts Start Here -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/pace/0.7.8/pace.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.2.0/papaparse.min.js"></script>
-    <script src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.min.js"></script>
-    <script src="./assets/script/main.js"></script>
+        <!-- Scripts Start Here -->
+        <script src="./assets/script/loader.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.2.0/papaparse.min.js"></script>
+        <script src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.min.js"></script>
+        <script src="./assets/script/main-min.js"></script>
 
 </body>
 

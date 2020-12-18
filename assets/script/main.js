@@ -20,11 +20,11 @@ $(function () {
                 })),
                 "data": results.data,
                 "deferRender": true,
-                "scrollY": 450,
-                "pageLength": 50,
+                "scrollY": 550,
+                "pageLength": 25,
                 "select": true,
                 "columnDefs": [{
-                    "width": "50%",
+                    "width": "0%",
                     "targets": 0
                 }],
                 "buttons": [{
@@ -43,7 +43,7 @@ $(function () {
 // Filter button
 $("#btn").click(function () {
 
-    $('#gameList_filter input').focus().val("5.05*");
+    $('#gameList_filter input').focus().val("7.02");
     simulateMouseClick(document.querySelector("#gameList_filter input"));
 });
 
